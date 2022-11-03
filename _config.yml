@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: ILSZ 652 Class Demo 
+title: Stamps and Spacemen 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a demo for class ILS-Z 652 Digital Libraries
+tagline: A collection of stamps depicting astronaughts and space travel
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A demo for learning how to use collection builder"
+description: "A small astrophilately collection"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Kschu97
 
