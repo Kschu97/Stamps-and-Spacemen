@@ -14,14 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Stamps and Spacemen is a digital collection created for class ILS-Z 652 Digital Libraries, fall 2022 as a class project to gain experience developing a digital collection. The collection’s focus is astrophilately, the depiction of astronauts and space travel in stamps. In this collection you will find digitized images of stamps depicting the Apollo missions, the fictional conquest of Venus, and many other subjects related to Astro astronauts and the space race.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
