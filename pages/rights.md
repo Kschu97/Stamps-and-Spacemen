@@ -8,4 +8,4 @@ permalink: /rights.html
 
 ## Rights Statement
 
-This collection was created for educational, non-commercial purposes only. For information on the license governing this collection, see [here](https://rightsstatements.org/page/InC-EDU/1.0/?language=en). The copyright status of stamps varies from country to country. For a general overview of the copyright status of stamps on a country by country basis, see https://commons.wikimedia.org/wiki/Commons:Stamps.
+This collection was created for educational, non-commercial purposes only. For information on the license governing this collection, see [here](https://rightsstatements.org/page/InC-EDU/1.0/?language=en). The copyright status of stamps varies from country to country. For a general overview of the copyright status of stamps on a country by country basis, see [https://commons.wikimedia.org/wiki/Commons:Stamps](https://commons.wikimedia.org/wiki/Commons:Stamps).
