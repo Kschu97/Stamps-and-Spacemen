@@ -6,7 +6,7 @@ permalink: /metadatascheme.html
 
 {% include feature/jumbotron.html objectid="https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_star-forming_region_carina_nircam_final-5mb.jpg" %}
 
-{% include feature/pdf.html objectid="kschu97metadatascheme.pdf" width="75" %}
+{% include feature/pdf.html objectid="/objects/pdf/kschu97metadatascheme.pdf" width="75" %}
 
 ##Metadata Scheme##
 
