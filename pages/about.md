@@ -22,7 +22,7 @@ Stamps and Spacemen is a digital collection created for class ILS-Z 652 Digital 
 
 The stamps found in this collection were sold in a packet called “Cosmic Encounters” being sold by Action Packets which was likely trying to tap into the popularity of the board game Cosmic Encounter, which came out in 1977. Acquiring this packet led to my personal interest in astrophilately. This is because the collection reminds me of my grandpa, who was notorious for being bad at playing cosmic encounter and who was the one who introduced me to stamp collecting and would work on stamps with me as a child. For these reasons, I feel a personal connection with this particular collection of stamps.
 
-{% include feature/image.html objectid="coll001" width="75" %}
+{% include feature/image.html objectid="/objects/img/zcosmic.jpg" width="75" %}
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
