@@ -18,8 +18,9 @@ permalink: /metadatascheme.html
 | Series |	Type |	Required |	1	| Yes |	Series stamp belongs to |
 | Subject |	Subject |	Required |	1 or more	| Yes |	Subject Stamp deals with |
 | Location; Longitude; Latitude; date_is_approximate |	Coverage |	Required |	4 |	Yes	| Country that issued the stamp; longitude; latitude; approximate date (if actual date is not known) |
-| Description	| Description |	Optional |	1	| Yes |	A description of the stamp |
+| Description; Price	| Description |	Optional |	2	| Yes |	A description of the stamp; its original price |
 | Language |	Language |	Optional	| 1 or more |	Yes	| The language(s) on the stamp |
 | Type |	Type |	Required	| 1 |	Yes |	The nature or genre of the resource e.g. still image |
 | Rights; Rights statement |	Rights	| Required |	2	 | Yes |	Rights statement |
 | Source |	Source |	Required |	1	| Yes |	Where the item is derived |
+ 
